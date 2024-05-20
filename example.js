@@ -9,4 +9,3 @@ const myObject = {
   
   myObject.toJS();
   myObject.toArray();
-  
